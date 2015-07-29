@@ -2,12 +2,12 @@
     /**
      * Plugin Name: DeMomentSomTres Woocommerce Free Shipping Message
      * Plugin URI:  http://demomentsomtres.com/english/wordpress-plugins/woocommerce-minimum-purchase-message/
-     * Version: 1.0.1
+     * Version: 0.1
      * Author URI: demomentsomtres.com
      * Author: Marc Queralt
      * Description: Shows a message if the user didn't reach the minimum purchase order
      * Requires at least: 3.9
-     * Tested up to: 4.2.3
+     * Tested up to: 3.9.1
      * License: GPLv3 or later
      * License URI: http://www.opensource.org/licenses/gpl-license.php
      */

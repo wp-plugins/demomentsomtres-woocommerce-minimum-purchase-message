@@ -3,7 +3,7 @@ Contributors: marcqueralt
 Donate link: http://demomentsomtres.com/english/wordpress-plugins/woocommerce-minimum-purchase/
 Tags: woocommerce, minimum purchase
 Requires at least: 3.9.1
-Tested up to: 4.1
+Tested up to: 4.2.3
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
