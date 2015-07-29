@@ -7,7 +7,7 @@
      * Author: Marc Queralt
      * Description: Shows a message if the user didn't reach the minimum purchase order
      * Requires at least: 3.9
-     * Tested up to: 3.9.1
+     * Tested up to: 4.2.3
      * License: GPLv3 or later
      * License URI: http://www.opensource.org/licenses/gpl-license.php
      */
